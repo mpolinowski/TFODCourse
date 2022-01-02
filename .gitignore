@@ -1,5 +1,6 @@
-/tfod
-/Tensorflow
-/.ipynb_checkpoints
-/ipynb_checkpoints
+tfod
+Tensorflow
 .ipynb_checkpoints
+.idea
+models.tar.gz
+bak
